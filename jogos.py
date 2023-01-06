@@ -1,4 +1,4 @@
-#bibilotecas e modulos
+# BIBLIOTECA E MODULOS
 import forca
 import advinhacao
 

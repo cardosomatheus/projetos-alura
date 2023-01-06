@@ -1,3 +1,4 @@
+# BIBLIOTECA E MODULOS
 from random import randint
 
 def jogar():
