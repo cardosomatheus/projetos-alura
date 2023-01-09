@@ -8,9 +8,3 @@ class Data:
     def formatada(self):
         #   DATA FORMATADA DD/MM/YYYY
         print(self.dia,self.mes,self.ano, sep='/')
-
-    
-
-
-
-

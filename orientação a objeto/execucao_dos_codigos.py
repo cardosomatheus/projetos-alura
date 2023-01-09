@@ -3,7 +3,6 @@ from conta import Conta
 from cliente import Cliente
 from datas import Data
 
- 
 
 #   DATA FORMADATA
 D = Data(10,8,2007)
